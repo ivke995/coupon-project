@@ -8,7 +8,7 @@ Bootstrap
 Installation
 Make a new folder at your local machine. Inside that folder open CLI or Git Bash and run following git command.
 
-git clone https://github.com/ivke995/coupon-generator/tree/master/couponFinal
+git clone https://github.com/ivke995/coupon-project
 
 In your CLI or Git Bash, enter the root of folder where your project has been created.
 
